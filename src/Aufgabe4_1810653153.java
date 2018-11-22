@@ -4,12 +4,12 @@ public class Aufgabe4_1810653153
     public static void main(String[] args)
     {
 
-        for(int i = 0; i <= 10; i++)
+        for(int i = 1; i <= 10; i++)
         {
             System.out.println("Der Schleifenzähler ist: " + i);
         }
 
-        int j = 0;
+        int j = 1;
 
         while(j <= 10)
         {
@@ -17,7 +17,7 @@ public class Aufgabe4_1810653153
             j++;
         }
 
-        int k = 0;
+        int k = 1;
 
         do {
             System.out.println("Der Schleifenzähler ist: " + k);
