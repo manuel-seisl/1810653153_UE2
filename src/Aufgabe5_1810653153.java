@@ -8,13 +8,13 @@ public class Aufgabe5_1810653153
 
         // For-Schleife
 
-        //forschleife(10);
-        //forschleife(20);
+        forschleife(10);
+        forschleife(20);
 
         // While-Schleife
 
-        //whileschleife(10);
-        //whileschleife(20);
+        whileschleife(10);
+        whileschleife(20);
 
         // Nutzer-Schleife
 
