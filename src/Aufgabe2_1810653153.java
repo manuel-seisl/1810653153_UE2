@@ -30,8 +30,6 @@ public class Aufgabe2_1810653153
                     } else {
                         number1++;
                     }
-                    number1 = Integer.parseInt(JOptionPane.showInputDialog("Bitte erste Zahl eingeben:"));
-                    number2 = Integer.parseInt(JOptionPane.showInputDialog("Bitte zweite Zahl eingeben:"));
                 }
                 count++;
             }
